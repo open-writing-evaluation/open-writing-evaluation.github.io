@@ -15,7 +15,7 @@ System workflow of integrated AES and GEC for language learners. A user flow can
 
 Interface screenshot for AES and GEC results: tokens in the faded red rectangles have been deleted; tokens in the green rectangles are corresponding grammatical corrections inserted by GEC; AES scores are scaled to 0-100. 
 
-**Publication**
+**Publication:**
 
 KyungTae Lim, Jayoung Song, Jungyeul Park (2023) **Neural automated writing evaluation for Korean L2 writing**. *Natural Language Engineering*, 29(5):1341-1363. [https://doi.org/10.1017/S1351324922000298](https://doi.org/10.1017/S1351324922000298)
 
