@@ -20,7 +20,7 @@ Interface screenshot for AES and GEC results: tokens in the faded red rectangles
 
 **Manuscripts Currently Under Review:**
 
-KyungTae Lim, Jayoung Song, Jungyeul Park (2023) Neural automated writing evaluation for Korean L2 writing. *Natural Language Engineering*, 29(5):1341-1363. [https://doi.org/10.1017/S1351324922000298](https://doi.org/10.1017/S1351324922000298)
+KyungTae Lim, Jayoung Song, Jungyeul Park (2023) **Neural automated writing evaluation for Korean L2 writing**. *Natural Language Engineering*, 29(5):1341-1363. [https://doi.org/10.1017/S1351324922000298](https://doi.org/10.1017/S1351324922000298)
 
 Izia Xiaoxiao Wang, Xihan Wu, Edith Coates, Min Zheng, Jiexin Kuang, Xi Qin, Siliang Liu, Mengyang Qiu, Jungyeul Park (October, 2023)  **GEC+AES system demo paper (The title is not being displayed due to anonymity reasons).** Submitted to *LREC-COLING2024*. 
 <!-- **Write It Right: Neural Automated Writing Evaluation with Corrective Feedback.** -->
