@@ -17,14 +17,15 @@ Interface screenshot for AES and GEC results: tokens in the faded red rectangles
 
 **Publication:**
 
+Jungyeul Park, Mengyang Qiu (2024) **Frustratingly Simple Prompting-based Text Denoising** Accpeted for publication in *Tiny Paper at ICLR 2024* 
+
 KyungTae Lim, Jayoung Song, Jungyeul Park (2023) **Neural automated writing evaluation for Korean L2 writing**. *Natural Language Engineering*, 29(5):1341-1363. [https://doi.org/10.1017/S1351324922000298](https://doi.org/10.1017/S1351324922000298)
 
 
 **Manuscripts Currently Under Review:**
 
-Izia Xiaoxiao Wang, Xihan Wu, Edith Coates, Min Zheng, Jiexin Kuang, Xi Qin, Siliang Liu, Mengyang Qiu, Jungyeul Park (October, 2023)  **GEC+AES system demo paper (The title is not being displayed due to anonymity reasons).** Submitted to *LREC-COLING2024*. 
-<!-- **Write It Right: Neural Automated Writing Evaluation with Corrective Feedback.** -->
+Izia Xiaoxiao Wang, Xihan Wu, Edith Coates, Min Zheng, Jiexin Kuang, Xi Qin, Siliang Liu, Mengyang Qiu, Jungyeul Park (January 2024)  **Neural Automated Writing Evaluation with Corrective Feedback** Submitted to *The System Demonstration Track at NAACL-HLT 2024*. 
 
-Min Zeng, Jiexin Kuang, Mengyang Qiu, Jayoung Song, Jungyeul Park (October, 2023) **Prompting GEC paper (The title is not being displayed due to anonymity reasons).** Submitted to *LREC-COLING2024*.
+Min Zeng, Jiexin Kuang, Mengyang Qiu, Jayoung Song, Jungyeul Park (October 2023) **Prompting GEC paper (The title is not being displayed due to anonymity reasons).** Submitted to *LREC-COLING2024*.
 <!-- **Evaluating Prompting Strategies for Grammatical Error Correction Based on Language Proficiency.** -->
 
