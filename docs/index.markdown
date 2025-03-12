@@ -5,12 +5,14 @@
 layout: home
 ---
 
-![IMAGE Prototype student](/Prototype-student.jpeg)
-
-System workflow of integrated AES and GEC for language learners. A user flow can be applied to simulate examination situations: the language learners receive instant objective scoring results and corrective feedback.
+<div style="text-align: center;">
+  <h2 style="font-size: 1.5em;"><b>Revolutionizing Chinese Grammar Correction with AI & Linguistic Insight</b></h2>
+  <h1 style="font-size: 1.8em;"><b>AI-based GEC with Linguistically-Informed Error Typology</b></h1>
+</div>
 
 <div style="text-align: center;">
-  <h2><b>Revolutionizing Chinese Grammar Correction with AI & Linguistic Insight</b></h2>
+  <h2><b>Revolutionizing Chinese Grammar Correction</b></h2>
+  <h2><b>with AI & Linguistic Insight</b></h2>
   <h1><b>AI-based GEC with Linguistically-Informed Error Typology</b></h1>
 </div>
 
@@ -37,9 +39,5 @@ Jungyeul Park, Mengyang Qiu (2024) **Frustratingly Simple Prompting-based Text D
 KyungTae Lim, Jayoung Song, Jungyeul Park (2023) **Neural automated writing evaluation for Korean L2 writing**. *Natural Language Engineering*, 29(5):1341-1363. [https://doi.org/10.1017/S1351324922000298](https://doi.org/10.1017/S1351324922000298)
 
 
-**Manuscripts Currently Under Review:**
 
-Izia Xiaoxiao Wang, Xihan Wu, Edith Coates, Min Zheng, Jiexin Kuang, Xi Qin, Siliang Liu, Mengyang Qiu, Jungyeul Park (January 2024)  **Neural Automated Writing Evaluation with Corrective Feedback**. Submitted to *The System Demonstration Track at NAACL-HLT 2024*. 
-
-<!-- **Evaluating Prompting Strategies for Grammatical Error Correction Based on Language Proficiency.** -->
 
