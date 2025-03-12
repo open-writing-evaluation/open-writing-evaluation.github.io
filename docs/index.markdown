@@ -9,11 +9,10 @@ layout: home
 
 System workflow of integrated AES and GEC for language learners. A user flow can be applied to simulate examination situations: the language learners receive instant objective scoring results and corrective feedback.
 
-<center>
-## **Revolutionizing Chinese Grammar Correction with AI & Linguistic Insight**
-
-## **AI-based GEC with linguistically-informed error typology**
-</center>
+<div style="text-align: center;">
+  <h2><b>Revolutionizing Chinese Grammar Correction with AI & Linguistic Insight</b></h2>
+  <h1><b>AI-based GEC with Linguistically-Informed Error Typology</b></h1>
+</div>
 
 Empowering AI-driven grammatical error correction (GEC) with deep linguistic intelligence. Our latest technology integrates a linguistically-informed error typology into machine learning models, enhancing precision and interpretability in Chinese grammar correction. By aligning AI with linguistic structures, we bridge the gap between rule-based analysis and modern NLP, creating a more effective, transparent, and adaptable correction system.
 
