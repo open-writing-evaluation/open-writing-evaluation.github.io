@@ -6,8 +6,8 @@ layout: home
 ---
 
 <div style="text-align: center;">
-  <h1 style="font-size: 2.5em;"><b>AI-based GEC</b></h1>
-  <h1 style="font-size: 2.5em;"><b>with Linguistically-Informed Error Typology</b></h1>
+  <h1 style="font-size: 2.1em;"><b>AI-based GEC</b></h1>
+  <h1 style="font-size: 2.1em;"><b>with Linguistically-Informed Error Typology</b></h1>
 </div>
 
 <div style="font-size: 1.5em; text-align: right; font-weight: bold;">
