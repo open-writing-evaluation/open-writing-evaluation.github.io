@@ -15,6 +15,7 @@ layout: home
 </div>
 
 <p>
+
   Empowering AI-driven grammatical error correction (GEC) with deep linguistic intelligence. Our latest technology integrates a linguistically-informed error typology into machine learning models, enhancing precision and interpretability in Chinese grammar correction. By aligning AI with linguistic structures, we bridge the gap between rule-based analysis and modern NLP, creating a more effective, transparent, and adaptable correction system.
 </p>
 
