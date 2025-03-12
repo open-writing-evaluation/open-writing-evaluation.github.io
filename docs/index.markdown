@@ -6,19 +6,19 @@ layout: home
 ---
 
 <div style="text-align: center;">
-  <h2 style="font-size: 1.5em;"><b>Revolutionizing Chinese Grammar Correction with AI & Linguistic Insight</b></h2>
-  <h1 style="font-size: 1.8em;"><b>AI-based GEC with Linguistically-Informed Error Typology</b></h1>
+  <h1 style="font-size: 2.5em;"><b>AI-based GEC</b></h1>
+  <h1 style="font-size: 2.5em;"><b>with Linguistically-Informed Error Typology</b></h1>
 </div>
 
-<div style="text-align: center;">
-  <h2><b>Revolutionizing Chinese Grammar Correction</b></h2>
-  <h2><b>with AI & Linguistic Insight</b></h2>
-  <h1><b>AI-based GEC with Linguistically-Informed Error Typology</b></h1>
+<div style="font-size: 1.5em; text-align: right; font-weight: bold;">
+  ... that revolutionizes Chinese Grammar Correction with annotations-based AI Insight
 </div>
 
-Empowering AI-driven grammatical error correction (GEC) with deep linguistic intelligence. Our latest technology integrates a linguistically-informed error typology into machine learning models, enhancing precision and interpretability in Chinese grammar correction. By aligning AI with linguistic structures, we bridge the gap between rule-based analysis and modern NLP, creating a more effective, transparent, and adaptable correction system.
+<p>
+  Empowering AI-driven grammatical error correction (GEC) with deep linguistic intelligence. Our latest technology integrates a linguistically-informed error typology into machine learning models, enhancing precision and interpretability in Chinese grammar correction. By aligning AI with linguistic structures, we bridge the gap between rule-based analysis and modern NLP, creating a more effective, transparent, and adaptable correction system.
+</p>
 
-Join us in advancing the next generation of AI-powered language tools!
+
 
 **Publication:**
 
