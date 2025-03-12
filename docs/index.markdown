@@ -4,16 +4,20 @@
 
 layout: home
 ---
--> [Try it here](https://open-writing-evaluation.github.io/awe/) <-
-
 
 ![IMAGE Prototype student](/Prototype-student.jpeg)
 
 System workflow of integrated AES and GEC for language learners. A user flow can be applied to simulate examination situations: the language learners receive instant objective scoring results and corrective feedback.
 
-![IMAGE WriteItRight](/WriteItRight.jpeg)
+<center>
+## **Revolutionizing Chinese Grammar Correction with AI & Linguistic Insight**
 
-Interface screenshot for AES and GEC results: tokens in the faded red rectangles have been deleted; tokens in the green rectangles are corresponding grammatical corrections inserted by GEC; AES scores are scaled to 0-100. 
+## **AI-based GEC with linguistically-informed error typology**
+</center>
+
+Empowering AI-driven grammatical error correction (GEC) with deep linguistic intelligence. Our latest technology integrates a linguistically-informed error typology into machine learning models, enhancing precision and interpretability in Chinese grammar correction. By aligning AI with linguistic structures, we bridge the gap between rule-based analysis and modern NLP, creating a more effective, transparent, and adaptable correction system.
+
+Join us in advancing the next generation of AI-powered language tools!
 
 **Publication:**
 
