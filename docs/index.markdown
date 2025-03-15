@@ -4,6 +4,13 @@
 
 layout: home
 ---
+<style>
+  body {
+    background-color: #121212; /* Very dark gray */
+    margin: 0;
+    padding: 0;
+  }
+</style>
 
 <div class="container" style="
     max-width: 800px;
