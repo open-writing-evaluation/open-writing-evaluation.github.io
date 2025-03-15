@@ -5,12 +5,32 @@
 layout: home
 ---
 <style>
+  /* Set background to very dark gray */
   body {
-    background-color: #121212; /* Very dark gray */
+    background-color: #121212;
+    color: white; /* Make all text white */
     margin: 0;
     padding: 0;
   }
+
+  /* Make headings white */
+  h1, h2, h3, h4, h5, h6 {
+    color: white;
+  }
+
+  /* Make links visible */
+  a {
+    color: #ffcc00; /* Optional: Customize link color */
+  }
+
+  /* Style the horizontal rule (line) */
+  hr {
+    border: none;
+    height: 2px;
+    background-color: #121212; /* Dark gray line */
+  }
 </style>
+
 
 <div class="container" style="
     max-width: 800px;
